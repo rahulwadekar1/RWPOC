@@ -6,3 +6,5 @@
 
 
 rm
+
+rm temp1
